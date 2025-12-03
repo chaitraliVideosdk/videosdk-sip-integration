@@ -7,7 +7,7 @@ VideoSDK provides a powerful platform for integrating modern communication proto
 1. Clone the Repository
 
 ```bash
-git clone https://github.com/videosdk-community/videosdk-sip-integration.git
+git clone https://github.com/chaitraliVideosdk/videosdk-sip-integration.git
 ```
 
 2. Navigate to project directory
